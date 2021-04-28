@@ -1,4 +1,4 @@
-# Install Ubuntu 18.04.4 LTS on Your Raspberry Pi Board
+# Install Ubuntu 20.04.4 LTS on Your Raspberry Pi Board
 
 ## Step 1: Install Ubuntu Mate 20.04 LTS
 
